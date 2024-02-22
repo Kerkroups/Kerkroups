@@ -1,4 +1,8 @@
 ### Hi there 👋
 
-**CVEs**:  
-- [CVE-2024-23830](https://nvd.nist.gov/vuln/detail/CVE-2024-23830)
+<details>
+<summary><b>CVEs</b>:</summary>
+<ul>
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2024-23830">CVE-2024-23830</a> 
+</ul>
+</details>
