@@ -5,7 +5,7 @@
 <ul>
 <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-23830">CVE-2024-23830</a><br>
 <a href="https://www.cve.org/CVERecord?id=CVE-2024-24818">CVE-2024-24818</a><br>
-ZDI-CAN-32287
-ZDI-CAN-31571
+ZDI-CAN-32287<br>
+ZDI-CAN-31571<br>
 </ul>
 </details>
